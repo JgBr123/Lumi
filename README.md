@@ -40,5 +40,5 @@ Lumi can be easily installed on a Windows machine by running [this setup](https:
 
 ### Package (For each file)
 - Directories names (The path of each directory that should be created when loading this package)
-- File hash (The SHA-256 hash of the data that should be written to a file. It will look into the filebase to try to find this hash and retrive the data)
+- File hash (The SHA-256 hash of the data that should be written to a file. It will look into the filebase to try to find this hash and retrieve the data)
 - File path (The path of where the file should be written)
