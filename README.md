@@ -19,7 +19,7 @@ Lumi can be easily installed on a Windows machine by running [this setup](https:
 - `lumi wipe` : Wipes the entire LUMI repository and all the packages.
 - `lumi palette (palette)` : Checks the available color palettes for the repository or sets one.
 - `lumi delete [package] (subpackage)` : Deletes the specified package or subpackage.
-- `lumi cleanup` : Cleans up the filebase of the repository. This will delete unnecessary files and free space.
+- `lumi cleanup` : Cleans up the filebase of the repository. This will delete unnecessary files and free up space.
 - `lumi tree` : Shows all the packages and subpackages in the repository in a tree style.
 #### Keep in mind [ ] are required parameters of the command, and ( ) are optional parameters.
 
