@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lumi", "Lumi.csproj", "{9914C767-3EB8-4A5B-A9A4-D4E2040FEDC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9914C767-3EB8-4A5B-A9A4-D4E2040FEDC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9914C767-3EB8-4A5B-A9A4-D4E2040FEDC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9914C767-3EB8-4A5B-A9A4-D4E2040FEDC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9914C767-3EB8-4A5B-A9A4-D4E2040FEDC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F6EBB81-D145-4A40-99C3-664C234EF582}
+	EndGlobalSection
+EndGlobal
